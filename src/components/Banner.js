@@ -29,8 +29,8 @@ function Banner() {
         <div className="col-xs-6 col-sm-3">
           <img
             style={{
-              width: 550,
-              height: 500,
+              width: 470,
+              height: 400,
               paddingBottom: 30,
               paddingTop: 30,
             }}
