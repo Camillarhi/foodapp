@@ -2,7 +2,7 @@
 function App() {
   return (
     <div>
-     <h2>Hello Chisom</h2>
+     <h2>Hello Chisom</h2> 
     </div>
   );
 }
