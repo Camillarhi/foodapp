@@ -33,7 +33,7 @@ export default function Footer() {
                 </div>
             </Container>
             <hr />
-            <Container className='d-md-flex justify-content-between px-5'>
+            <Container className='d-md-flex justify-content-between'>
                 <p className='mx-5'>© 2021 LILIES, All rights reserved</p>
                 <div>
                     <i className="bi bi-instagram mx-5"></i>
