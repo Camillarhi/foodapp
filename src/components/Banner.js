@@ -47,6 +47,13 @@ function Banner() {
           />
         </div>
       </div>
+      <div style={{ paddingTop: 80 }}><center>
+        <h1 style={{ fontSize: 29 }}><center>Special Meals of the day!</center></h1>
+        <p style={{ fontSize: 20, opacity: "75%", lineHeight: "33px" }}>
+          Check our specials of the day and get discount on all our meals <br />
+          and swift delivery to what ever location withing ilorin
+        </p></center>
+      </div>
     </Container>
   );
 }
